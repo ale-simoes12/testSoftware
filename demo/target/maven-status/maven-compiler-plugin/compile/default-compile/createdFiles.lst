@@ -1,0 +1,7 @@
+com\example\TicketMachine.class
+com\exception\PapelMoedaInvalidaException.class
+com\example\App.class
+com\example\Troco$TrocoIterator.class
+com\exception\SaldoInsuficienteException.class
+com\example\Troco.class
+com\example\PapelMoeda.class
